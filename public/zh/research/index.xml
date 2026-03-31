@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Wilna</title>
-    <link>//localhost:1313/zh/research/</link>
+    <link>https://yucun430-jpg.github.io/wilna/zh/research/</link>
     <description>Recent content in Research on Wilna</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/zh/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yucun430-jpg.github.io/wilna/zh/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>声学感知与声学定位</title>
-      <link>//localhost:1313/zh/research/acoustic/</link>
+      <link>https://yucun430-jpg.github.io/wilna/zh/research/acoustic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/zh/research/acoustic/</guid>
+      <guid>https://yucun430-jpg.github.io/wilna/zh/research/acoustic/</guid>
       <description></description>
     </item>
     <item>
       <title>无线感知</title>
-      <link>//localhost:1313/zh/research/wireless-sensing/</link>
+      <link>https://yucun430-jpg.github.io/wilna/zh/research/wireless-sensing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/zh/research/wireless-sensing/</guid>
+      <guid>https://yucun430-jpg.github.io/wilna/zh/research/wireless-sensing/</guid>
       <description></description>
     </item>
   </channel>
